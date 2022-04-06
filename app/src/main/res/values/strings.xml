@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="HomeF">Home Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="setting_fragment">Setting Fragment</string>
+</resources>
